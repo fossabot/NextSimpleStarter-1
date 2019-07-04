@@ -52,6 +52,7 @@ npm run build
 ```
 ### Deployment
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/ooade/NextSimpleStarter)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGamingpc%2FNextSimpleStarter-1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGamingpc%2FNextSimpleStarter-1?ref=badge_shield)
 
 <details>
 	<summary>heroku</summary>
@@ -63,3 +64,6 @@ I'm open to contributions & suggestions in making this a lot better :hand:
 
 ### License
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGamingpc%2FNextSimpleStarter-1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGamingpc%2FNextSimpleStarter-1?ref=badge_large)
